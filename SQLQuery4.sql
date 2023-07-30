@@ -1,0 +1,1 @@
+INSERT INTO SampleTable VALUES (1, 'Ankitha')
